@@ -1,0 +1,22 @@
+{
+  "name": "united-therapeutics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "mjml src/index.mjml --output src/index.html",
+    "start": "mjml --watch src/index.mjml --output src/index.html",
+    "server": "live-server --host=localhost --open=src",
+    "dev": "concurrently \"npm run start\" \"npm run server\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mjml": "^4.13.0"
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0",
+    "live-server": "^1.2.2"
+  }
+}

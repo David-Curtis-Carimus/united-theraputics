@@ -1,0 +1,270 @@
+<mjml>
+
+  <mj-head>
+    <!-- <mj-breakpoint width="300px" /> -->
+    <mj-attributes>
+      <!-- <mj-class name="download-form" padding="500px"/> -->
+      <mj-section padding="0"/>
+    </mj-attributes>
+        <mj-style>
+       @import url("https://use.typekit.net/pka5bej.css");
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#FFFFFF">
+
+    <mj-hero
+      mode="fluid-height"
+      background-color="#FFFFFF"
+      background-width="600px"
+      background-height="469px"
+      background-url=
+          "./images/UT-OTK_Hero.png"
+      background-color="#2a3448"
+      >
+        <mj-spacer height="130px" />
+        <mj-text align="center" font-size="16px" color="#60489D" font-family="myriad-pro">
+          INTRODUCING THE
+        </mj-text>
+        <mj-text align="center" font-size="36px" color="#60489D" font-family="bryant-web">
+          Orenitram Titration Kit
+        </mj-text>
+    </mj-hero>
+
+    <mj-section background-color="#FFFFFF" padding="0px 0px 50px">
+      <mj-column width="480px">
+        <mj-text font-family="myriad-pro" line-height="22px" padding="8px 0px">
+          Dear Healthcare Provider, 
+        </mj-text>
+        <mj-text font-family="myriad-pro" line-height="22px" padding="8px 0px">
+          We are pleased to announce the FDA approval of the Orenitram Titration Kit, now available for your adult patients who are starting Orenitram three times daily (TID). The Titration Kit simplifies dosing for you and your patients to confidently start Orenitram.
+        </mj-text>
+        <mj-text font-family="myriad-pro" line-height="22px" padding="8px 0px">
+          Patients who are prescribed the Titration Kit will receive 3 monthly kits of Orenitram. With dosing guidance and reminders, patients will know their exact morning, afternoon, and evening doses as they titrate toward their target dose.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding-top="60px" padding-bottom="50px" background-url="./images/background-shapes/UT-OTK_Round-Backgrounds-2.png" background-repeat="no-repeat" background-size="cover">
+      <mj-group width="480px">
+        <mj-column>
+          <mj-image width="147px" height="147px" padding="0"    src="./images/Month-1_OPEN.png" />
+          <mj-text align="center" font-size="16px" letter-spacing="1.6px" line-height="20px" padding="0px" color="#FFFFFF" font-family="myriad-pro" font-size="16px" font-weight="600" letter-spacing="1.6px" line-height="20px">
+            <p style="margin-bottom: 0px;">3 MONTHLY</br> KITS</p>
+          </mj-text>
+          <mj-text align="left" font-size="11px" padding="0px" color="#FFFFFF">
+            <p style="font-family: myriad-pro; font-weight:600; font-size: 11px">Each Monthly Kit Includes:</p>
+            <ul style="padding: 0px 12px; color: #D80B8C">
+              <li><span style="color: #FFFFFF; font-family: myriad-pro; font-size: 11px; line-height: 16px">Information and support based on where the patient is during titration</span></li>
+
+              <li style="padding-top: 10px; font-family: myriad-pro; font-size: 11px; line-height: 16px"><span style="color: #FFFFFF">A simple outline of that month’s Orenitram doses</span></li>
+            </ul>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image width="147px" height="147px" padding="0" src="./images/Week-1_OPEN.png" />
+          <mj-text align="center" font-size="16px" letter-spacing="1.6px" line-height="20px" padding="0px" color="#FFFFFF" font-family="myriad-pro" font-size="16px" font-weight="600" letter-spacing="1.6px" line-height="20px">
+            <p style="margin-bottom: 0px">4 WEEKLY BOXES</br> PER MONTH</p>
+          </mj-text>
+          <mj-text align="left" font-size="11px" padding="0px" color="#FFFFFF">             
+            <p style="font-family: myriad-pro; font-weight:600; font-size: 11px">Each Weekly Box Includes:</p>
+            <ul style="padding: 0px 12px; color: #D80B8C">
+              <li><span style="color: #FFFFFF; font-family: myriad-pro; font-size: 11px; line-height: 16px">How to take Orenitram</span></li>
+
+              <li style="padding-top: 10px; font-family: myriad-pro; font-size: 11px; line-height: 16px"><span style="color: #FFFFFF">What to do if your patient misses a dose</span></li>
+            </ul>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image width="147px" height="147px" padding="0" src="./images/DailyPack_Week1.png" />
+              <mj-text align="center" font-size="16px" letter-spacing="1.6px" line-height="20px" padding="0px" color="#FFFFFF" font-family="myriad-pro" font-size="16px" font-weight="600" letter-spacing="1.6px" line-height="20px">
+            <p style="margin-bottom: 0px">7 DAILY PACKS</br> PER WEEK</p>
+          </mj-text>
+          <mj-text align="left" font-size="11px" padding="0px" color="#FFFFFF">
+            <p style="font-family: myriad-pro; font-weight:600; font-size: 11px">Each Daily Pack Includes:</p>
+            <ul style="padding: 0px 12px; color: #D80B8C">
+              <li><span style="color: #FFFFFF; font-family: myriad-pro; font-size: 11px; line-height: 16px">The exact morning, afternoon, and evening doses of Orenitram</span></li>
+
+              <li style="padding-top: 10px"><span style="color: #FFFFFF; font-family: myriad-pro; font-size: 11px; line-height: 16px">Tools to help ensure your patient is staying on track</span></li>
+            </ul>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section  background-color="#F7F5FC" padding-top="45px">
+      <mj-column width="480px" padding-bottom="30px">
+        <mj-text align="center" font-size="22px" color="#60489D" font-family="bryant-web">
+          Get to know the Orenitram Titration Kit
+        </mj-text>
+        <mj-text align="center" font-size="14px" color="#464646" font-family="myriad-pro">
+          Watch this quick video to see how the Titration Kit helps your patients start Orenitram.
+        </mj-text>
+      </mj-column>
+      <mj-column width="480px">
+        <mj-raw>
+          <video width="100%" height="270" poster="./images/Video/Video Placeholder.png" controls>
+            <source src="./images/Video/Orenitram_TitrationKit_FinalCut_wNewVO_02022023_320.mp4" type="video/mp4">
+              Your client does not support embeded video.
+            </video>
+        </mj-raw> 
+      </mj-column>
+      <mj-column width="480px" padding="30px 0px">
+        <mj-button line-height="5px" font-size="12px" background-color="#D80B8C" padding="0px" border-radius="5px" href="https://www.orenitramhcp.com/dosing-orenitram" target="_blank">
+          LEARN MORE
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-size="100%" background-repeat="no-repeat" background-url="./images/background-shapes/UT-OTK_Round-Backgrounds-3.png" background-color="#F4F4F4">
+
+      <mj-column width="52%" padding-top="50px" mj-class="download-form">
+          <mj-text padding-left="0px" align="left" font-size="22px" color="#60489D" font-family="bryant-web" line-height="28px">
+            To start your patient on the Orenitram Titration Kit
+          </mj-text>
+          <mj-text padding-left="0px" padding-bottom="0px" align="left" font-size="14px" color="#58595B" font-family="myriad-pro" line-height="20px">
+            <span style="font-size: 16px; color: #60489D; font-family: myriad-pro; font-weight: 600; letter-spacing: 1.6px">COMPLETE</span> and <span style="font-size: 16px; color: #60489D; font-family: myriad-pro; font-weight: 600; letter-spacing: 1.6px">SUBMIT</span> the new Orenitram Referral Form.
+          </mj-text>
+          <mj-button background-color="#D80B8C" padding="30px 0px" align="left" font-size="12px" line-height="5px" width="200px" href="https://www.utassist.com/pdfs/orenitram/Orenitram-Referral-Form.pdf" target="_blank">
+            DOWNLOAD THE FORM
+          </mj-button>
+      </mj-column>
+
+      <mj-column width="167px" padding="30px 0px 0px 0px" >
+          <mj-image src="./images/Form_page2.jpg" alt="form page" padding="0px" width="167px" height="217px" align="center"/>
+      </mj-column>
+
+
+
+
+        <mj-column width="160px" padding="20px 0px 40px 0px">
+          <mj-image width="74px" height="74px" padding="0" src="./images/Icons/Icon with Background/UT_Orenitram-Box_Icon_BG.svg" />
+
+          <mj-text align="center" font-size="14px" padding="0px" color="#464646" font-weight="100" font-family="myriad-pro" line-height="20px">
+            <p style="margin-bottom: 0px"><span style="font-size: 16px; color: #60489D; font-family: myriad-pro; font-weight: 600; letter-spacing: 1.6px">CHECK</br></span> the Titration</br> Kit field</p>
+          </mj-text>
+
+        </mj-column>
+
+        <mj-column width="160px" padding="20px 0px 40px 0px">
+          <mj-image width="74px" height="74px" padding="0" src="./images/Icons/Icon with Background/UT_Orenitram-Calendar_Icon_BG.svg" />
+
+          <mj-text align="center" font-size="14px" padding="0px" color="#464646" font-weight="100" font-family="myriad-pro" line-height="20px">
+            <p style="margin-bottom: 0px"><span style="font-size: 16px; color: #60489D; font-family: myriad-pro; font-weight: 600; letter-spacing: 1.6px">CHECK</span> and </br><span style="font-size: 16px; color: #60489D; font-family: myriad-pro; font-weight: 600; letter-spacing: 1.6px">COMPLETE</br></span> the patient’s titration</br> schedule after Month 3</p>
+          </mj-text>
+
+        </mj-column>
+
+        <mj-column width="160px" padding="20px 0px 40px 0px">
+          <mj-image width="74px" height="74px" padding="0" src="./images/Icons/Icon with Background/UT_Orenitram-Medicine_Icon_BG.svg" />
+
+          <mj-text align="center" font-size="14px" padding="0px" color="#464646" font-weight="100" font-family="myriad-pro" line-height="20px">
+            <p style="margin-bottom: 0px"><span style="font-size: 16px; color: #60489D; font-family: myriad-pro; font-weight: 600; letter-spacing: 1.6px">SELECT</br></span> all appropriate</br> strengths needed to</br> reach the target dose</p>
+          </mj-text>
+
+        </mj-column>
+
+        <mj-column width="480px" background-color="#60489D" padding="30px" border-radius="5px">
+          <mj-text font-size="22px" font-family="bryant-web" color="#FFFFFF" padding="0px" align="center" line-height="28px">
+            Speak with your Orenitram representative to learn more about the Titration Kit and visit OrenitramHCP.com
+          </mj-text>
+        </mj-column>
+
+
+
+    </mj-section>
+
+    <mj-section  background-color="#F4F4F4" padding="40px 0px">
+      <mj-column width="480px">
+        <mj-text font-size="11px" color="#464646" line-height="16px" padding="0px">
+          <p style="font-size: 16px; font-family: myriad-pro; font-weight: 600; color: #60489D; font-size: 15px">Orenitram® (treprostinil) Extended-Release Tablets</p>
+          <p style="font-size: 11px; font-family: myriad-pro; font-weight: 600; color: #60489D; margin-top: 25px; margin-bottom: 0px; letter-spacing: .5px">Indication </p>
+          <p style="font-size: 11px; font-family: myriad-pro; line-height: 16px; margin-top: 5px; margin-bottom: 30px">Orenitram is a prostacyclin mimetic indicated for treatment of pulmonary arterial hypertension (PAH)(WHO Group 1) to delay disease progression and to improve exercise capacity. The studies that established effectiveness included predominately patients with WHO functional class II-III symptoms and etiologies of idiopathic or heritable PAH (66%) or PAH associated with connective tissue disease (26%).</p>
+          <p style="font-size: 11px; font-family: myriad-pro; font-weight: 600; color: #60489D; letter-spacing: 1.1px">IMPORTANT SAFETY INFORMATION FOR ORENITRAM</p>
+          <ul style="padding-left: 10px">
+            <p style="font-size: 11px; font-family: myriad-pro; font-weight: 600; color: #60489D; margin-bottom: 5px">Contraindications</p>
+            <li style="font-size: 11px; line-height: 16px; font-family; font-family:myriad-pro">
+              Avoid use of Orenitram in patients with severe hepatic impairment (Child Pugh Class C) due to increases in systemic exposure.
+            </li>
+          </ul>
+
+          <ul style="padding-left: 10px">
+            <p style="font-size: 11px; font-family: myriad-pro; font-weight: 600; color: #60489D; margin-bottom: 5px; margin-top: 0px">Warnings and Precautions</p>
+            <li style="font-size: 11px; line-height: 16px; font-family:myriad-pro">
+              Abrupt discontinuation or sudden large reductions in dosage of Orenitram may result in worsening of PAH symptoms.
+            </li>
+            <li style="margin-top: 5px; font-size: 11px; line-height: 16px; font-family:myriad-pro">
+              The Orenitram tablet shell does not dissolve. In patients with diverticulosis, Orenitram tablets can lodge in a diverticulum.
+            </li>
+          </ul>
+
+          <ul style="padding-left: 10px">
+            <p style="font-size: 11px; font-family: myriad-pro; font-weight: 600; color: #60489D; margin-bottom: 5px; margin-top: 0px">Adverse Reactions</p>
+            <li style="font-size: 11px; line-height: 16px; font-family:myriad-pro">
+              In the 12-week, placebo-controlled, monotherapy study, and an event-driven, placebo-controlled, combination therapy study, adverse reactions that occurred at rates at least 5% higher on Orenitram than on placebo included headache, diarrhea, nausea, vomiting, flushing, pain in jaw, pain in extremity, hypokalemia, abdominal discomfort, and upper abdominal pain.
+            </li>
+          </ul>
+
+          <ul style="padding-left: 10px">
+            <p style="font-size: 11px; font-family: myriad-pro; font-weight: 600; color: #60489D; margin-bottom: 5px; margin-top: 0px">Drug Interactions</p>
+            <li style="font-size: 11px; line-height: 16px; font-family:myriad-pro">
+              Co-administration of Orenitram and the CYP2C8 enzyme inhibitor gemfibrozil increases exposure to treprostinil; therefore, Orenitram dosage reduction may be necessary in these patients.
+            </li>
+          </ul>
+
+          <ul style="padding-left: 10px">
+            <p style="font-size: 11px; font-family: myriad-pro; font-weight: 600; color: #60489D; margin-bottom: 5px; margin-top: 0px">Specific Populations</p>
+            <li style="font-size: 11px; line-height: 16px; font-family:myriad-pro">
+              Animal reproductive studies with Orenitram have shown an adverse effect on the fetus. There are no adequate and well-controlled studies with Orenitram in pregnant women.
+            </li>
+            <li style="margin-top: 5px; font-size: 11px; line-height: 16px; font-family:myriad-pro">
+              It is not known whether treprostinil is excreted in human milk or if it affects the breastfed infant or milk production.
+            </li>
+            <li style="margin-top: 5px; font-size: 11px; line-height: 16px; font-family:myriad-pro">
+              Safety and effectiveness of Orenitram in pediatric patients have not been established.
+            </li>
+            <li style="margin-top: 5px; font-size: 11px; line-height: 16px; font-family:myriad-pro">
+              Use of Orenitram in patients aged 65 years and over demonstrated slightly higher absolute and relative adverse event rates compared to younger patients. Caution should be used when selecting a dose for geriatric patients.
+            </li>
+            <li style="margin-top: 5px; font-size: 11px; line-height: 16px; font-family:myriad-pro">
+              There is a marked increase in the systemic exposure to treprostinil in hepatically impaired patients.
+            </li>
+          </ul>
+
+          <p style="font-size: 11px; font-family: myriad-pro; color: #464646; margin-top: 20px; margin-bottom: 20px">OREISIhcpOCT19</p>
+
+          <p style="font-size: 14px; color: #464646; font-family: myriad-pro">Please see <span style="font-size: 14px; color: #D80B8C; font-family: myriad-pro; font-weight: 600;">Full Prescribing Information</span> and <span style="font-size: 14px; color: #D80B8C; font-family: myriad-pro; font-weight: 600;">Patient Information</span> at <a href="https://www.orenitram.com" target="_blank" style="text-decoration: none; font-size: 14px; color: #D80B8C; font-family: myriad-pro; font-weight: 600">www.orenitram.com</a> or call 1-877-UNITHER (1-877-864-8437).</p>
+          
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="linear-gradient(to right, rgba(170,9,111, 1), rgba(86,56,137, 1))" padding="2px">
+      <mj-column width="480px">
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="linear-gradient(to right, rgba(200,49,146, 1), rgba(80,57,149, 1))" padding="2px">
+      <mj-column width="480px">
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#464646" >
+      <mj-column width="480px">
+        <mj-image src="./images/logos/UT_lockup_right_4C white.svg" alt="united theraputics logo" width="125px" align="left" padding="30px 25px 0px" />
+        <mj-text color="#FFFFFF" padding="20px 25px 0px" font-family="myriad-pro" line-height="14px" font-size="10px">
+          Orenitram is a registered trademark of United Therapeutics Corporation. © 2023 United Therapeutics Corporation. All rights reserved. US/ORE/0660
+        </mj-text>
+        <mj-text color="#FFFFFF" padding="10px 25px 0px" font-family="myriad-pro" line-height="14px" font-size="10px">
+          55 T.W. Alexander Dr. | Durham, NC 27709
+        </mj-text>
+        <mj-text color="#FFFFFF" padding="10px 25px 25px" font-family="myriad-pro" line-height="14px" font-size="10px">
+          <a href="/" target="_blank" style="text-decoration: none; color: #FFFFFF">Unsubscribe</a> | <a href="./index.html" target="_blank" style="text-decoration: none; color: #FFFFFF">View in browser</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+
+</mjml>
